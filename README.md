@@ -1,5 +1,5 @@
 ### Hi there 👋
-**RhonaJoy here
+**RhonaJoy here**
 - 🔭 I’m currently working on various projects to help me grow as a full stack developer.
 - 🌱 I’m currently learning Javascript,Bootstrap.
 - 💬 Ask me about absolutely anything about life.
